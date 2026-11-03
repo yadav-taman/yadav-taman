@@ -1,70 +1,34 @@
-<!-- Repo name MUST equal your GitHub username (e.g. github.com/yadavji/yadavji) for this to show on your profile -->
+<h1 align="center">Hi 👋, I'm Taman Kumar Yadav</h1>
+<h3 align="center">A passionate coder and developer from India</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavtamankumar04-art&label=Profile%20views&color=0e75b6&style=flat" alt="yadavtamankumar04-art" /> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=YADAV%20TAMAN&fontSize=52&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=CSE%20%26%20IT%20%E2%80%A2%20IIITDM%20Kurnool&descAlignY=58&descSize=18" alt="header" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavtamankumar04-art" alt="yadavtamankumar04-art" /></a> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF2BD6&center=true&vCenter=true&width=520&lines=2nd-year+CSE+DD+student;Building+things+that+look+as+good+as+they+run;Cyberpunk+%E2%80%A2+Design+%E2%80%A2+Code" alt="typing" /></a>
+- 🔭 I’m currently pursuing **B.Tech in CSE at IIITK**
 
-</div>
+- 🌱 I’m currently learning **DSA in Java and Real world Projects in Python**
 
----
+- 💬 Ask me about **Web apps , Dev**
 
-## `> whoami`
+- 📫 How to reach me **yadavtamankumar04@gmail.com**
 
-```text
-name        : Yadav Taman
-studying    : Computer Science & IT (CSE DD), 2nd year
-institute   : IIITDM Kurnool, Andhra Pradesh
-interests   : web dev, visual design, branding, creative writing
-currently   : building a full-stack resume project
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yadavtaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavtaman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taman-kumar-yadav-162556370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taman-kumar-yadav-162556370" height="30" width="40" /></a>
+<a href="https://instagram.com/rky_yadavtaman_iiitk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rky_yadavtaman_iiitk" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yadav_taman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yadav_taman" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yadav_taman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadav_taman" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yadav_taman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yadav_taman" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yadav_taman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadav_taman" height="30" width="40" /></a>
+</p>
 
-## `> skills --list`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavtamankumar04-art&show_icons=true&locale=en&layout=compact" alt="yadavtamankumar04-art" /></p>
 
-![HTML5](https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=ff2bd6)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a1a?style=for-the-badge&logo=css3&logoColor=00fff2)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=00fff2)
-![Git](https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=ff2bd6)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavtamankumar04-art&show_icons=true&locale=en" alt="yadavtamankumar04-art" /></p>
 
-</div>
-
-<!-- Only keep badges for things you can actually discuss in an interview. -->
-
-## `> ls projects/`
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Cyberpunk Portfolio** | Single-file academic portfolio with terminal boot sequence and neon hero | HTML · CSS · JS |
-| **Resume Project** | Full-stack resume builder (in progress) | _fill in_ |
-| **EV Manufacturing Case Study** | Smart Manufacturing report on Tesla, BYD, Tata Motors | Research · Writing |
-| **Design Submissions** | Logo and design entries for MyGov India competitions | Design |
-
-<!-- Add a repo link per project once the code is public: [name](https://github.com/USERNAME/REPO) -->
-
-## `> stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a1a" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a1a" alt="languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=synthwave&hide_border=true&background=0a0a1a" alt="streak" />
-
-</div>
-
-## `> contact`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=00fff2)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=ff2bd6)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a1a?style=for-the-badge&logo=googlechrome&logoColor=00fff2)](https://YOUR-PORTFOLIO-URL)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavtamankumar04-art&" alt="yadavtamankumar04-art" /></p>
